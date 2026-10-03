@@ -8,7 +8,9 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            InstagramUI()
+            // Change this line to show a different screen:
+            // InstagramUI()  /  SpotifyHomeScreen()  /  TravelCardScreen()
+            SpotifyHomeScreen()
         }
     }
 }

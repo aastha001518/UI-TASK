@@ -34,9 +34,9 @@ import androidx.compose.ui.unit.sp
 private val img1 = R.drawable. lanaa
 private val img2 = R.drawable. weekndd
 private val img3 = R.drawable.tate
-private val img4 = R.drawable. IMGSOUND
-private val img5 = R.drawable.TOPTRACK
-private val img6 = R.drawable.DAILYMIX
+private val img4 = R.drawable. snd
+private val img5 = R.drawable.trk
+private val img6 = R.drawable.dmx
 
 @Composable
 fun SpotifyHomeScreen() {
